@@ -1,7 +1,6 @@
 import java.util.*;
 public class Q1_Tax {
-// program that takes the age of the employee and the amount of salary from 
-		//the user and then calculates the tax.
+// Write a java program that takes the age of the employee and the amount of salary from the user and then calculates the tax. 
 	public static void main(String[] args) {
 		
 		int salary,age;
