@@ -1,7 +1,7 @@
 import java.util.*;
 public class Q2_NestedLoop {
 	public static void main(String[] args) {
-			// takes a digit (between 0 and 9) from the user and then prints the following shape 
+// Write a java program that takes a digit (between 0 and 9)from the user and then prints the following shape by using nested for loops.  
 			Scanner k=new Scanner(System.in);
 		    int n;
 		    System.out.println("Enter a number (between 0 and 9): ");
